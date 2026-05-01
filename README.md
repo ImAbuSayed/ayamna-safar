@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit e701f8ee6fefc58e2c0ef8add8c79e495e11e13f
+> يا حبيبي أنت روحي
+> في غرامك طاب جرحي
+> نبض قلبي لك ينادي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
