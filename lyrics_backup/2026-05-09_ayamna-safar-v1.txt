@@ -1,0 +1,190 @@
+Title: Ayamna Safar
+Clean Hash: 82094e97c096ab82ec456a2acbb1a19e8c1adbc5647f448f15b2f216d7a212c3
+Raw Hash: 59ba0e153116889d7c821e614cdb9e93b3275f31ff53152fc41a54972a9cb762
+Date: 2026-05-09T01:21:42.965289
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+Subproject commit e701f8ee6fefc58e2c0ef8add8c79e495e11e13f
+[Hook (Arabic)]
+[Male]
+يا حبيبي أنت روحي
+في غرامك طاب جرحي
+نبض قلبي لك ينادي
+أنت شمسي في بوادي
+
+[Hook (Hindi)]
+[Female]
+तेरी आँखों में मैं खो जाऊं
+दिल की धड़कन की तू आवाज़
+साँसों में तुझको मैं बसाऊं
+तू ही है मेरे प्यार का राज़
+
+[Hook (English)]
+[Male]
+Every secret that we trace
+Brings me to a brighter place
+Lost inside this wild embrace
+No one else can take your place
+
+[Verse 1 (Bangla)]
+[Female]
+তোমার চোখে স্বপ্ন আমার
+তুমি আমার রূপকথা
+এই বুকেতে প্রেমের জোয়ার
+মুছে দিলে সব ব্যথা
+
+[Pre-Chorus 1 (Hindi)]
+[Male]
+तेरी बातों का असर है
+ये तो चाहत का सफ़र है
+बेकरारी छा गई है
+अब तो मंज़िल आ गई है
+
+[Chorus (Bangla)]
+[Male]
+ভালোবাসি আমি যে তোমায়
+মন হলো আজ বাঁধনহারা
+হৃদয় খোঁজে প্রেমের ছোঁয়ায়
+তুমি আমার ধ্রুবতারা
+
+[Verse 2 (Arabic)]
+[Female]
+شوقي لك فاق الحدود
+بيننا طال الوعود
+في عيونك أرى طريقي
+أنت حلمي وحقيقي
+
+[Pre-Chorus 2 (Punjabi)]
+[Male]
+ਤੇਰੀ ਅੱਖੀਆਂ ਦਾ ਇਹ ਜਾਦੂ
+ਮੇਰੇ ਦਿਲ ਤੇ ਕਰੇ ਕਾਬੂ
+ਤੇਰੇ ਬਿਨ ਹੁਣ ਨਾ ਗੁਜ਼ਾਰਾ
+ਤੂੰ ਹੀ ਮੇਰਾ ਜੱਗ ਸਾਰਾ
+
+[Chorus (Arabic)]
+[Male]
+عشقنا يملأ الفضاء
+مثل نجم في السماء
+أنت لي كل الأمان
+فيك يكتمل الزمان
+
+[Verse 3 (Hindi)]
+[Female]
+बिन तेरे मैं कैसे जी लूं
+आँसुओं के घूंट पी लूं
+पास आ कर दूर ना जा
+मेरी धड़कन में समा जा
+
+[Pre-Chorus 3 (Arabic)]
+[Male]
+طيفك يمحو كل هم
+حبك في الروح بلسَم
+في حنيني لك أغني
+أنت لحني والتمني
+
+[Chorus (Bangla)]
+[Male]
+ভালোবাসি আমি যে তোমায়
+মন হলো আজ বাঁধনহারা
+হৃদয় খোঁজে প্রেমের ছোঁয়ায়
+তুমি আমার ধ্রুবতারা
+
+[Verse 4 (Punjabi)]
+[Female]
+ਸਾਹਾਂ ਵਿੱਚ ਵੱਸਦਾ ਏਂ ਤੂੰ
+ਮੇਰੀ ਤਾਂ ਰੂਹ ਦਾ ਸਕੂਨ
+ਤੇਰੀ ਯਾਦਾਂ ਦੀ ਇਹ ਬਾਰਿਸ਼
+ਕਰਦੀ ਏ ਦਿਲ ਦੀ ਗੁਜ਼ਾਰਿਸ਼
+
+[Bridge (English)]
+[Male]
+Feel the fire in the shadows pulling closer to the light
+Every heartbeat is an echo running wild into the night
+One name in the rhythm... Sayed burning up the flame (Sayed... Sayed...)
+Taste the passion in the silence, nothing ever feels the same
+Deep inside this heavy breathing, let the destiny ignite (Sayed... Sayed...)
+We can lose it all forever, melting bodies out of sight
+
+[Chorus (Hindi)]
+[Female]
+तू ही मेरी आरज़ू है
+मेरी हर एक जुस्तजू है
+तेरे बिना है सूना जीवन
+तू है मेरे दिल की धड़कन
+
+[Outro (Arabic)]
+[Male]
+في عيونك أرى خلود
+حبنا فاق الوجود
+أنت لي نور الدروب
+عاشق أبداً لا يتوب
+--------------------
+[CLEAN LYRICS]
+Subproject commit e701f8ee6fefc58e2c0ef8add8c79e495e11e13f
+يا حبيبي أنت روحي
+في غرامك طاب جرحي
+نبض قلبي لك ينادي
+أنت شمسي في بوادي
+तेरी आँखों में मैं खो जाऊं
+दिल की धड़कन की तू आवाज़
+साँसों में तुझको मैं बसाऊं
+तू ही है मेरे प्यार का राज़
+Every secret that we trace
+Brings me to a brighter place
+Lost inside this wild embrace
+No one else can take your place
+তোমার চোখে স্বপ্ন আমার
+তুমি আমার রূপকথা
+এই বুকেতে প্রেমের জোয়ার
+মুছে দিলে সব ব্যথা
+तेरी बातों का असर है
+ये तो चाहत का सफ़र है
+बेकरारी छा गई है
+अब तो मंज़िल आ गई है
+ভালোবাসি আমি যে তোমায়
+মন হলো আজ বাঁধনহারা
+হৃদয় খোঁজে প্রেমের ছোঁয়ায়
+তুমি আমার ধ্রুবতারা
+شوقي لك فاق الحدود
+بيننا طال الوعود
+في عيونك أرى طريقي
+أنت حلمي وحقيقي
+ਤੇਰੀ ਅੱਖੀਆਂ ਦਾ ਇਹ ਜਾਦੂ
+ਮੇਰੇ ਦਿਲ ਤੇ ਕਰੇ ਕਾਬੂ
+ਤੇਰੇ ਬਿਨ ਹੁਣ ਨਾ ਗੁਜ਼ਾਰਾ
+ਤੂੰ ਹੀ ਮੇਰਾ ਜੱਗ ਸਾਰਾ
+عشقنا يملأ الفضاء
+مثل نجم في السماء
+أنت لي كل الأمان
+فيك يكتمل الزمان
+बिन तेरे मैं कैसे जी लूं
+आँसुओं के घूंट पी लूं
+पास आ कर दूर ना जा
+मेरी धड़कन में समा जा
+طيفك يمحو كل هم
+حبك في الروح بلسَم
+في حنيني لك أغني
+أنت لحني والتمني
+ভালোবাসি আমি যে তোমায়
+মন হলো আজ বাঁধনহারা
+হৃদয় খোঁজে প্রেমের ছোঁয়ায়
+তুমি আমার ধ্রুবতারা
+ਸਾਹਾਂ ਵਿੱਚ ਵੱਸਦਾ ਏਂ ਤੂੰ
+ਮੇਰੀ ਤਾਂ ਰੂਹ ਦਾ ਸਕੂਨ
+ਤੇਰੀ ਯਾਦਾਂ ਦੀ ਇਹ ਬਾਰਿਸ਼
+ਕਰਦੀ ਏ ਦਿਲ ਦੀ ਗੁਜ਼ਾਰਿਸ਼
+Feel the fire in the shadows pulling closer to the light
+Every heartbeat is an echo running wild into the night
+One name in the rhythm... Sayed burning up the flame.. Sayed... Sayed.....
+Taste the passion in the silence, nothing ever feels the same
+Deep inside this heavy breathing, let the destiny ignite.. Sayed... Sayed.....
+We can lose it all forever, melting bodies out of sight
+तू ही मेरी आरज़ू है
+मेरी हर एक जुस्तजू है
+तेरे बिना है सूना जीवन
+तू है मेरे दिल की धड़कन
+في عيونك أرى خلود
+حبنا فاق الوجود
+أنت لي نور الدروب
+عاشق أبداً لا يتوب
